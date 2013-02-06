@@ -1,0 +1,9 @@
+1. 20
+Navigated to /usr/bin using cd command, checked files using ls -al
+2. init
+I used the top command
+3. UTC
+I used the date command
+4. 52 groups
+I used the cat /etc/group command
+5. 
