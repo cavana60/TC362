@@ -7,4 +7,8 @@ I used the date command
 4. 52 groups
 I used the cat /etc/group command
 5. 0,1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,1597,2584,4181
+<<<<<<< HEAD
 I used wget http://cl.ly/2F0Q1r2y3K0l/362.tar to install the file, untared it with the tar xvf 362.tar command, and then ran it with the php 362.php command.
+=======
+I used wget http://cl.ly/2F0Q1r2y3K0l/362.tar to install the file, untared it with the tar xvf 362.tar command, and then ran it with the php 362.php command.
+>>>>>>> ee1af5b5c144b4efe65589a4f0b4c2f57cd0e125
