@@ -1,0 +1,5 @@
+Primary IP Address: 69.195.124.78
+Domain: cavana60.com
+Subdomain: sub1.cavana60.com
+
+Note: I am using bluehost for another class, so I used this domain for the assignment
